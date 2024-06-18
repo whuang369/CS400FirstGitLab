@@ -1,4 +1,10 @@
 /*
+ * Name: Harry Huang
+ * Email: whuang369@wisc.edu
+ * CS Account Username: harryh
+ */
+
+/*
  *	Color class
  */
 public class Color{

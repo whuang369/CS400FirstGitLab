@@ -1,4 +1,10 @@
 /*
+ * Name: Harry Huang
+ * Email: whuang369@wisc.edu
+ * CS Account Username: harryh
+ */
+
+/*
  * Test the use of the Color method
  */
 import java.util.*;
